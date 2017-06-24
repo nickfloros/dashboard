@@ -1,0 +1,28 @@
+{
+  "name": "dashboard",
+  "version": "0.0.1",
+  "description": "attempt to build a dashboard using ng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickfloros/dashboard.git"
+  },
+  "keywords": [
+    "nodejs",
+    "angular",
+    "ui-router",
+    "nvD3"
+  ],
+  "author": "Nick Floros <nickfloros@gmail.com> (https://plus.google.com/u/0/+NickFloros)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickfloros/dashboard/issues"
+  },
+  "homepage": "https://github.com/nickfloros/dashboard#readme",
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
